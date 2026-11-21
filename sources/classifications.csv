@@ -1,0 +1,4 @@
+record_id,classification_id,event_id,reviewed_at,assigned_code,reviewer_ref,review_state
+classifications-01,CL-1,EV-71,2026-06-29T10:00:00Z,C-4,REV-A,confirmed
+classifications-02,CL-2,EV-72,2026-07-03T11:00:00Z,C-42,REV-B,changed
+classifications-03,CL-3,EV-73,2026-07-05T16:00:00Z,,REV-A,needs_review

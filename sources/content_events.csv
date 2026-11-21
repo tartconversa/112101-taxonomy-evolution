@@ -1,0 +1,4 @@
+record_id,event_id,content_ref,received_at,source_code,source_taxonomy_version,source_platform
+content_events-01,EV-71,OBJ-A,2026-06-28T12:00:00Z,C-4,1,PLAT-A
+content_events-02,EV-72,OBJ-B,2026-07-02T13:00:00Z,C-41,2,PLAT-B
+content_events-03,EV-73,OBJ-C,2026-07-03T09:00:00Z,C-4,1,PLAT-A
