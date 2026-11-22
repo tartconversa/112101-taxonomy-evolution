@@ -1,0 +1,8 @@
+record_id,taxonomy_id,from_code,from_version,to_code,to_version,map_type,coverage,effective_from,note
+mapping-01,TX-1,C-1,1,C-11,2,rename,all,2026-07-01,垃圾推广定义澄清为未请求推广，适用范围一致
+mapping-02,TX-1,C-2,1,C-23,2,merge,all,2026-07-01,仇恨言论整体并入有害行为
+mapping-03,TX-1,C-3,1,C-23,2,merge,all,2026-07-01,骚扰整体并入有害行为
+mapping-04,TX-1,C-4,1,C-41,2,split,some,2026-07-01,误导内容中涉及来源声明的部分
+mapping-05,TX-1,C-4,1,C-42,2,split,some,2026-07-01,误导内容中涉及合成上下文的部分
+mapping-06,TX-1,C-5,1,C-51,2,partial,some,2026-07-01,成人内容中仅裸露子类有对应新类，其余需人工复核
+mapping-07,TX-1,C-6,1,,,none,none,2026-07-01,自残类目退役且无后继，历史数据无法可靠转换

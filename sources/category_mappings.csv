@@ -1,0 +1,3 @@
+record_id,taxonomy_id,from_code,from_version,to_code,to_version,map_type,coverage,effective_from,note
+mapping-01,TX-1,C-4,1,C-41,2,split,some,2026-07-01,误导内容中涉及来源声明的部分
+mapping-02,TX-1,C-4,1,C-42,2,split,some,2026-07-01,误导内容中涉及合成上下文的部分

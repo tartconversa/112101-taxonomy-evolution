@@ -1,0 +1,12 @@
+record_id,taxonomy_id,version,code,label,valid_from,valid_to,parent_code
+taxonomy-01,TX-1,1,C-1,spam,2026-01-01,2026-06-30,
+taxonomy-02,TX-1,1,C-2,hate_speech,2026-01-01,2026-06-30,
+taxonomy-03,TX-1,1,C-3,harassment,2026-01-01,2026-06-30,
+taxonomy-04,TX-1,1,C-4,misleading,2026-01-01,2026-06-30,
+taxonomy-05,TX-1,1,C-5,adult_content,2026-01-01,2026-06-30,
+taxonomy-06,TX-1,1,C-6,self_harm,2026-01-01,2026-06-30,
+taxonomy-07,TX-1,2,C-11,unsolicited_promo,2026-07-01,,C-1
+taxonomy-08,TX-1,2,C-23,harmful_conduct,2026-07-01,,
+taxonomy-09,TX-1,2,C-41,source_claim,2026-07-01,,C-4
+taxonomy-10,TX-1,2,C-42,synthetic_context,2026-07-01,,C-4
+taxonomy-11,TX-1,2,C-51,adult_nudity,2026-07-01,,C-5
